@@ -16,7 +16,7 @@
 #### [Linked](https://www.linkedin.com/in/jodan-lima-galas-3a7782183/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/JodanGalas)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
 * Fabrício Cursino dos Santos (Dev Team)
-#### [Linked](https://www.linkedin.com/in/fabr%C3%ADcio-cursino/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fcursino)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />![image](https://user-images.githubusercontent.com/54045555/112754776-fc50be00-8fb3-11eb-9729-b5b70cb5c5e6.png)
+#### [Linked](https://www.linkedin.com/in/fabr%C3%ADcio-cursino/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fcursino)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
 ### Disciplina Focal Point: Testes de Software e Banco de Dados 
 * M1  Prof. Gerson da Penha Neto
