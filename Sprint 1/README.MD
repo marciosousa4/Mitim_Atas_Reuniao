@@ -3,8 +3,8 @@
 
 ## Funcionalidades da aplicação
 
-* Atendendo a lista de requisitos desenvolvemos um protótipo com a funcionalidades especificadas pela empresa parceira. 
-* Anexamos a documentação do projeto à esta entrega permitindo um amplo conhecimento do que será desenvolvido, inclusive pensando em possíveis alterações ou ajustes no sistema.
+* Atendendo a lista de requisitos desenvolvemos um protótipo com as funcionalidades especificadas pela empresa parceira. 
+* Anexamos a documentação do projeto à esta entrega permitindo um amplo conhecimento do que será desenvolvido, considerando possíveis alterações ou ajustes no sistema.
 * A interface com o usuário é de vital importância para o sucesso do sistema. Principalmente por ser um sistema que será utilizado diariamente, o usuário não possui tempo disponível para 
 aprender como utilizar o sistema. O sistema terá uma interface amigável ao usuário primário sem se tornar cansativa aos usuários 
 mais experientes conforme podemos ver no protótipo anexo a essa entrega. 
@@ -18,7 +18,7 @@ mais experientes conforme podemos ver no protótipo anexo a essa entrega.
 
 ## Sobre o Protótipo
 
-Para o desenvolvimento do protótipo do GEOFPI foi utilizado o editor de imagens vetoriais e ferramenta de prototipagem Figma, onde foram modeladas as 
+Para o desenvolvimento do protótipo da Mítim foi utilizado o editor de imagens vetoriais e ferramenta de prototipagem Figma, onde foram modeladas as 
 futuras telas da aplicação e suas respectivas conexões.
 
 Através do link abaixo é possível a visualização do protótipo referente à primeira entrega Por ele é possível navegar pelas telas, 
