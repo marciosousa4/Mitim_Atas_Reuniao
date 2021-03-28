@@ -23,10 +23,10 @@
 * M2 : Profª. Juliana Forim Pasquini
 
 ## Índice
-* [O que é a Mítim](#o-que-é-o-mítim)
+* [O que é a Mítim](#o-que-é-a-mítim)
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
-* [Requisitos do Projeto](#lista-de-requisitos)
+* [Documentação de Requisitos do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/main/Sprint%201/documento_requisitos.pdf)
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Cronograma de Entregas](#cronograma-de-entregas)
@@ -35,7 +35,7 @@
 Mítim é uma ferramenta que permite cadastro das atas de reunião e de seus respectivos participantes, gerando um registro online de todas as decisões tomadas , permitindo a delegação das ações discutidas na reunião para os seus respectivo responsáveis.
 ## Ferramenta Desenvolvida 
 Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as funcionalidades de cadastro, controle de acesso, logs de execução, geração e monitoramento de ata de reunião e assinatura digital. Também é possível gerar relatórios que forneçam dados para insights estratégicos e tomada de decisões.
-## Bebefícios
+## Benefícios
 * Gera ata de reunião
 * Garante mais produtividade e eficiência em suas reuniões
 * Permite o monitoramento e acompanhamento do andamento das ações definidas nas Reuniões
