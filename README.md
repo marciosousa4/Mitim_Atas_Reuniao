@@ -1,28 +1,56 @@
-<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202.png" width="900" height="600"/>
-
-## Funcionalidades da aplicação
-
-* Atendendo a lista de requisitos desenvolvemos o CRUD de usuários e a tela de login no sistema. 
-* Anexamos a documentação atualizada do projeto à esta entrega permitindo um amplo conhecimento do que será desenvolvido, considerando possíveis alterações ou ajustes no sistema.
-* O CRUD de usuários 
+<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Imagem%20Gith%20entrada.png" width="800" height="600"/>
 
 
-## Valor da Sprint
-* O CRUD de usuários possibilita cadastrar, salvar, editar e excluir usuários.
-* Através do CRUD e login de usuários é possível distinguir os diferentes níveis de acesso.
-* Possibilita identificar como será a interação de cada usuário com o sistema de atas.
+## Dev Team
 
-## CRUD de usuários
+* Márcio Geraldo de Sousa (Product Owner)
 
-<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202/GifM%C3%ADtim(CRUDdeUsu%C3%A1rio).gif" width="900" height="600"/>
+#### [Linked](https://www.linkedin.com/in/marciosousa4/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/marciosousa4)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
-## Login de acesso
+* Fernanda Corrente Marques (Scrum Master)
+#### [Linked](https://www.linkedin.com/in/fernanda-marques-591a7078/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fernandamarques-hub)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
-<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202/GifM%C3%ADtim(LoginAcesso).gif" width="900" height="600"/>
+* Jodan Lima Galas (Dev Team)
 
+#### [Linked](https://www.linkedin.com/in/jodan-lima-galas-3a7782183/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/JodanGalas)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
-# Protótipo
-Através do link abaixo é possível a visualização do protótipo referente à primeira entrega, por ele é possível navegar pelas telas, entendendo o fluxo e função dos botões e menus.
+* Fabrício Cursino dos Santos (Dev Team)
+#### [Linked](https://www.linkedin.com/in/fabr%C3%ADcio-cursino/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fcursino)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
-https://www.figma.com/proto/jOmIWRVDItaf7kSwE8pHy9/Prototipagem?node-id=2%3A4&viewport=309%2C303%2C0.1183125376701355&scaling=min-zoom&page-id=0%3A1
+### Disciplina Focal Point: Testes de Software e Banco de Dados 
+* M1  Prof. Gerson da Penha Neto
+* M2 : Profª. Juliana Forim Pasquini
 
+## Índice
+* [O que é a Mítim](#o-que-é-a-mítim)
+* [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
+* [Benefícios](#benefícios)
+* [Documentação de Requisitos do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/main/Sprint%201/documento_requisitos.pdf)
+* [Product Backlog](#product-backlog)
+* [Tecnologias](#tecnologias)
+* [Cronograma de Entregas](#cronograma-de-entregas)
+
+## O que é a Mítim 
+Mítim é uma ferramenta que permite cadastro das atas de reunião e de seus respectivos participantes, gerando um registro online de todas as decisões tomadas , permitindo a delegação das ações discutidas na reunião para os seus respectivo responsáveis.
+## Ferramenta Desenvolvida 
+Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as funcionalidades de cadastro, controle de acesso, logs de execução, geração e monitoramento de ata de reunião e assinatura digital. Também é possível gerar relatórios que forneçam dados para insights estratégicos e tomada de decisões.
+## Benefícios
+* Gera ata de reunião
+* Garante mais produtividade e eficiência em suas reuniões
+* Permite o monitoramento e acompanhamento do andamento das ações definidas nas Reuniões
+* Divulga para todos os participantes e/ou interessados os itens e assuntos discutidos e abordados nas Reuniões.
+* Geração de relatórios que me  fornecem dados para insights estratégicos e tomada de decisões
+
+## Product Backlog 
+<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Product%20Backlog.png" width="900" height="500"/>
+
+## Tecnologias
+<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Tecnologias.png" width="900" height="500"/>
+
+## Cronograma de entregas
+| Data | Links |
+| ------ | ------ |
+|    28/03/2021   |[Sprint 1](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/main/Sprint%201)|
+|    18/04/2021   |[Sprint 2]|
+|    16/05/2020   |[Sprint 3]|
+|    05/06/2020   |[Sprint 4]|
