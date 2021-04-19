@@ -17,6 +17,9 @@
 * Fabrício Cursino dos Santos (Dev Team)
 #### [Linked](https://www.linkedin.com/in/fabr%C3%ADcio-cursino/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fcursino)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
+* Davi Silva Martins das Neves (Dev Team)
+#### [Linked](https://www.linkedin.com/in/davi-neves-a50573201/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fcursino)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
+
 ### Disciplina Focal Point: Testes de Software e Banco de Dados 
 * M1  Prof. Gerson da Penha Neto
 * M2 : Profª. Juliana Forim Pasquini
