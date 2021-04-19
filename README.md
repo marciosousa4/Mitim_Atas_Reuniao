@@ -1,4 +1,4 @@
-<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Imagem%20Gith%20entrada.png" width="800" height="600"/>
+<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Imagem%20Gith%20entrada.png"  width="900"  height="600"/>
 
 
 ## Dev Team
@@ -45,10 +45,10 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 * Geração de relatórios que me  fornecem dados para insights estratégicos e tomada de decisões
 
 ## Product Backlog 
-<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Product%20Backlog.png" width="900" height="500"/>
+<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Product%20Backlog.png" width="900" height="600"/>
 
 ## Tecnologias
-<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Tecnologias.png" width="900" height="500"/>
+<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Tecnologias.png" width="900" height="600"/>
 
 ## Cronograma de entregas
 | Data | Links |
