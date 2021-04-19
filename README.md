@@ -51,6 +51,6 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 | Data | Links |
 | ------ | ------ |
 |    28/03/2021   |[Sprint 1](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/main/Sprint%201)|
-|    18/04/2021   |[Sprint 2]|
+|    18/04/2021   |[Sprint 2](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-2)|
 |    16/05/2020   |[Sprint 3]|
 |    05/06/2020   |[Sprint 4]|
