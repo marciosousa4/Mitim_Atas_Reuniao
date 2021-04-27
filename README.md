@@ -28,10 +28,11 @@
 * [O que é a Mítim](#o-que-é-a-mítim)
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
-* [Documentação de Requisitos do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/main/Sprint%201/documento_requisitos.pdf)
+* [Documentação do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/documento_requisitos.docx)
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
-* [Cronograma de Entregas](#cronograma-de-entregas)
+* [Links de Entregas](#links-de-entregas)
+* [Protótipo](https://www.figma.com/proto/jOmIWRVDItaf7kSwE8pHy9/Prototipagem?node-id=2%3A4&viewport=309%2C303%2C0.1183125376701355&scaling=min-zoom&page-id=0%3A1)
 
 ## O que é a Mítim 
 Mítim é uma ferramenta que permite cadastro das atas de reunião e de seus respectivos participantes, gerando um registro online de todas as decisões tomadas , permitindo a delegação das ações discutidas na reunião para os seus respectivo responsáveis.
@@ -50,7 +51,7 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 ## Tecnologias
 <img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Tecnologias.png" width="900" height="600"/>
 
-## Cronograma de entregas
+## Links de entregas
 | Data | Links |
 | ------ | ------ |
 |    28/03/2021   |[Sprint 1](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-1)|
