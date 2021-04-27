@@ -1,4 +1,4 @@
-<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202.png" width="900" height="600"/>
+<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202.png" width="700" height="400"/>
 
 ## Funcionalidades da aplicação
 
@@ -14,11 +14,11 @@
 
 ## CRUD de usuários
 
-<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202/GifM%C3%ADtim(CRUDdeUsu%C3%A1rio).gif" width="900" height="600"/>
+<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202/GifM%C3%ADtim(CRUDdeUsu%C3%A1rio).gif" width="700" height="350"/>
 
 ## Login de acesso
 
-<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202/GifM%C3%ADtim(LoginAcesso).gif" width="900" height="600"/>
+<img src="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Sprint%202/GifM%C3%ADtim(LoginAcesso).gif" width="700" height="350"/>
 
 
 # Protótipo
