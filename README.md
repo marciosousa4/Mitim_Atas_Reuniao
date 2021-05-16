@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Mìtim Atas de Reunião
+  Mítim Atas de Reunião
 </h1>
 <p align="center">
   ⚛️ 📄 🚀
