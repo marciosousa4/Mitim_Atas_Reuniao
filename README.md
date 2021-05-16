@@ -49,6 +49,7 @@
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Links de Entregas](#links-de-entregas)
+* [Features](#features)
 * [Protótipo](https://www.figma.com/proto/jOmIWRVDItaf7kSwE8pHy9/Prototipagem?node-id=2%3A4&viewport=309%2C303%2C0.1183125376701355&scaling=min-zoom&page-id=0%3A1)
 
 ## O que é a Mítim 
@@ -79,7 +80,8 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 
 ### Features
 
+- [x] Login de usuário
 - [x] Cadastro de usuário
 - [x] Cadastro de  atas
-- [ ] Impressão de atas
+- [x] Impressão de atas
 - [ ] Relatórios
