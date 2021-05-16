@@ -36,8 +36,8 @@
     <td align="center"><a href="https://github.com/fernandamarques-hub"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56441190?v=4" width="100px;" alt=""/><br /><sub><b>Fernanda corrente</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
     <td align="center"><a href="https://github.com/marciosousa4"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54045555?s=400&u=66b3d79c9e9e434fb934f562ac107c87df2c73f5&v=4" width="100px;" alt=""/><br /><sub><b>Marcio Sousa</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
     <td align="center"><a href="https://github.com/fcursino"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51213785?v=4" width="100px;" alt=""/><br /><sub><b>Fabrício Cursinho</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-    <td align="center"><a href="https://github.com/DaviNeves0"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54684941?v=4" width="100px;" alt=""/><br /><sub><b>Davi Neves/b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
-    <td align="center"><a href="https://github.com/JodanGalas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29134051?v=4" width="100px;" alt=""/><br /><sub><b>Davi Neves/b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://github.com/DaviNeves0"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54684941?v=4" width="100px;" alt=""/><br /><sub><b>Davi Neves</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://github.com/JodanGalas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29134051?v=4" width="100px;" alt=""/><br /><sub><b>Jodan Galas</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
   </tr>
 </table>
 
