@@ -26,8 +26,17 @@
   </a>
   
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  NextLevelSprin 3 🚀 Em construção...  🚧
 </h4>
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/proto/jOmIWRVDItaf7kSwE8pHy9/Prototipagem?node-id=2%3A4&viewport=309%2C303%2C0.1183125376701355&scaling=min-zoom&page-id=0%3A1">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
 
 ## Dev team
 
@@ -50,7 +59,7 @@
 * [Tecnologias](#tecnologias)
 * [Links de Entregas](#links-de-entregas)
 * [Features](#features)
-* [Protótipo](https://www.figma.com/proto/jOmIWRVDItaf7kSwE8pHy9/Prototipagem?node-id=2%3A4&viewport=309%2C303%2C0.1183125376701355&scaling=min-zoom&page-id=0%3A1)
+* [Funcionamento do sistema](https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/tag/v.2.0.0)
 
 ## O que é a Mítim 
 Mítim é uma ferramenta que permite cadastro das atas de reunião e de seus respectivos participantes, gerando um registro online de todas as decisões tomadas , permitindo a delegação das ações discutidas na reunião para os seus respectivo responsáveis.
@@ -74,7 +83,7 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 | ------ | ------ |
 |    28/03/2021   |[Sprint 1](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-1)|
 |    18/04/2021   |[Sprint 2](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-2)|
-|    16/05/2021   |[Sprint 3]|
+|    16/05/2021   |[Sprint 3](https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/edit/v.2.0.0#)
 |    05/06/2021   |[Sprint 4]|
 
 
