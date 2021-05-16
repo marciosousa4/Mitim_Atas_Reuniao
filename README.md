@@ -83,14 +83,14 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 | ------ | ------ |
 |    28/03/2021   |[Sprint 1](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-1)|
 |    18/04/2021   |[Sprint 2](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-2)|
-|    16/05/2021   |[Sprint 3](https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/edit/v.2.0.0#)
+|    16/05/2021   |[Sprint 3](https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/tag/v.2.0.0)
 |    05/06/2021   |[Sprint 4]|
 
 
 ### Features
 
-- [x] Login de usuário
-- [x] Cadastro de usuário
-- [x] Cadastro de  atas
-- [x] Impressão de atas
+:white_check_mark: Login de usuário
+:white_check_mark: Cadastro de usuário
+:white_check_mark: Cadastro de  atas
+:white_check_mark: Impressão de atas
 - [ ] Relatórios
