@@ -1,11 +1,40 @@
-<img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Imagem%20Gith%20entrada.png"  width="900"  height="600"/>
+<p align="center">
+  <a href="https://github.com/marciosousa4/Mitim_Atas_Reuniao">
+    <img alt="Mìtim" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/logo_transparent_background.png?raw=true" width="350" />
+  </a>
+</p>
+<h1 align="center">
+  Mìtim Atas de Reunião
+</h1>
+<p align="center">
+  ⚛️ 📄 🚀
+</p>
+<p align="center">
+  <strong>
+    Soluções inteligentes 
+  </strong>
+</p>
+<p align="center">
+  Mítim é um Software para gestão de ata de reuniões que gerencia pautas, prazos e emite relatórios para que sua equipe possa ter controle das reuniões e trazer mais resultados para a sua empresa 
+</p>
+<p align="center">
+  <a href="https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby is released under the MIT license." />
+  </a>
+  <a href="https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/tag/v.1.0.0">
+    <img src="https://img.shields.io/github/v/tag/iterative/setup-cml?label=GitHub%20Actions&logo=GitHub" alt="https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/tag/v.1.0.0" />
+  </a>
+  
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
 
 
 ## Dev Team
 
 * Márcio Geraldo de Sousa (Product Owner)
-
-#### [Linked](https://www.linkedin.com/in/marciosousa4/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/marciosousa4)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
+#### [Linked](https://www.linkedin.com/in/marciosousa4/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/marciosousa4)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
 
 * Fernanda Corrente Marques (Scrum Master)
 #### [Linked](https://www.linkedin.com/in/fernanda-marques-591a7078/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fernandamarques-hub)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
@@ -58,3 +87,11 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 |    18/04/2021   |[Sprint 2](https://github.com/marciosousa4/Mitim_Atas_Reuniao/tree/Sprint-2)|
 |    16/05/2021   |[Sprint 3]|
 |    05/06/2021   |[Sprint 4]|
+
+
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de  atas
+- [ ] Impressão de atas
+- [ ] Relatórios
