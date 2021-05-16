@@ -52,13 +52,13 @@ function ImprimirAta() {
         setAtaModal(!ataModal);
         setSalvaResultado(resultado);
         for (var i = 0; i < assuntoRes.length; i++) {
-            if (assuntoRes[i].idAta === resultado.id) {
+            if (assuntoRes[i].idata === resultado.id) {
                 arrayAssuntos.push({ ...assuntoRes[i] } )
                 
             }
         }setSalvaAssunto(arrayAssuntos)
         for (var i = 0; i < participanteRes.length; i++){
-            if(participanteRes[i].iAta === resultado.id ){
+            if(participanteRes[i].idata === resultado.id ){
                 arrayParticipante.push({...participanteRes[i]})
             }
         }setSalvaParticipante(arrayParticipante)  
