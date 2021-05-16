@@ -29,29 +29,17 @@
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
+## Dev team
 
-
-## Dev Team
-
-* Márcio Geraldo de Sousa (Product Owner)
-#### [Linked](https://www.linkedin.com/in/marciosousa4/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/marciosousa4)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
-
-* Fernanda Corrente Marques (Scrum Master)
-#### [Linked](https://www.linkedin.com/in/fernanda-marques-591a7078/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fernandamarques-hub)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
-
-* Jodan Lima Galas (Dev Team)
-
-#### [Linked](https://www.linkedin.com/in/jodan-lima-galas-3a7782183/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/JodanGalas)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
-
-* Fabrício Cursino dos Santos (Dev Team)
-#### [Linked](https://www.linkedin.com/in/fabr%C3%ADcio-cursino/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" /> [Github](https://github.com/fcursino)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
-
-* Davi Silva Martins das Neves (Dev Team)
-#### [Linked](https://www.linkedin.com/in/davi-neves-a50573201/)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/download.png" width="15" height="15" />[Github](https://github.com/DaviNeves0)<img src="https://raw.githubusercontent.com/marciosousa4/GEOFPI---Projeto-Integrador/master/Loading%20images/GitHub-Mark.png" width="20" height="20" />
-
-### Disciplina Focal Point: Testes de Software e Banco de Dados 
-* M1  Prof. Gerson da Penha Neto
-* M2 : Profª. Juliana Forim Pasquini
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/fernandamarques-hub"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56441190?v=4" width="100px;" alt=""/><br /><sub><b>Fernanda corrente</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/marciosousa4"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54045555?s=400&u=66b3d79c9e9e434fb934f562ac107c87df2c73f5&v=4" width="100px;" alt=""/><br /><sub><b>Marcio Sousa</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/fcursino"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51213785?v=4" width="100px;" alt=""/><br /><sub><b>Fabrício Cursinho</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://github.com/DaviNeves0"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54684941?v=4" width="100px;" alt=""/><br /><sub><b>Davi Neves/b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://github.com/JodanGalas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29134051?v=4" width="100px;" alt=""/><br /><sub><b>Davi Neves/b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+  </tr>
+</table>
 
 ## Índice
 * [O que é a Mítim](#o-que-é-a-mítim)
