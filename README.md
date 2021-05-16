@@ -26,7 +26,7 @@
   </a>
   
 <h4 align="center"> 
-	🚧  NextLevelSprin 3 🚀 Em construção...  🚧
+	🚧  NextLevelSprint 3 🚀 Em construção...  🚧
 </h4>
 
 ## 🎨 Layout
