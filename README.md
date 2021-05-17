@@ -55,7 +55,7 @@ O layout da aplicação está disponível no Figma:
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
 * [Documentação do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Documento%20de%20Requisitos%20-%20Mitim.pdf)
-* [Demonstração do Software](mítim-gestão-ata-de-reunião-(demonstração))
+* [Demonstração do Software](mítim---gestão-de-ata-de-reunião-(demonstração))
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Links de Entregas](#links-de-entregas)
