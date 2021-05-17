@@ -55,7 +55,6 @@ O layout da aplicação está disponível no Figma:
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
 * [Documentação do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Documento%20de%20Requisitos%20-%20Mitim.pdf)
-* [Demonstração do Software](https://github.com/marciosousa4/Repositorio_de_Imagens/raw/main/logo_transparent_background.png?raw=true)
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Links de Entregas](#links-de-entregas)
@@ -73,28 +72,49 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 * Divulga para todos os participantes e/ou interessados os itens e assuntos discutidos e abordados nas Reuniões.
 * Geração de relatórios que me  fornecem dados para insights estratégicos e tomada de decisões
 
+
 <p align="center">
   <a href="https://github.com/marciosousa4/Mitim_Atas_Reuniao">
     <img alt="Mìtim" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/logo_transparent_background.png?raw=true" width="200" />
   </a>
 
 </p>
-<h1 align="center">
+<h3 align="center">
   Demonstração
-</h1>
+</h3>
+
+</p>
+<h3 align="center">
+  Solicitação de acesso
+</h3>
 
 <p align="center">
   <kbd>
-    <img width="550" style="border-radius: 5px" height="250" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Solicita%C3%A7%C3%A3o%20e%20Aprova%C3%A7%C3%A3o%20de%20Acesso).gif" alt="Intro">
+    <img width="650" style="border-radius: 5px" height="370" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Solicita%C3%A7%C3%A3o%20e%20Aprova%C3%A7%C3%A3o%20de%20Acesso).gif" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
+	
+</p>
+<h3 align="center">
+  Recuperação de Senha
+</h3>
+  
+  <p align="center">
   <kbd>
-    <img width="550" style="border-radius: 5px" height="250" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Redefini%C3%A7%C3%A3o%20de%20Senha).gif" alt="Register adopt">
+    <img width="650" style="border-radius: 5px" height="370" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Redefini%C3%A7%C3%A3o%20de%20Senha).gif?raw=true" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  </p>
+<h3 align="center">
+  Manipulação de Atas
+</h3>
+   <p align="center">
   <kbd>
-    <img width="550" style="border-radius: 5px" height="250" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(ATA%20de%20Reuni%C3%A3o).gif" alt="Chat">
+    <img width="650" style="border-radius: 5px" height="370" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(ATA%20de%20Reuni%C3%A3o).gif?raw=true" alt="Intro">
   </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 
