@@ -55,6 +55,7 @@ O layout da aplicação está disponível no Figma:
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
 * [Documentação do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Documento%20de%20Requisitos%20-%20Mitim.pdf)
+* [Demonstração do Software](mítim-gestão-ata-de-reunião-(demonstração))
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Links de Entregas](#links-de-entregas)
@@ -71,6 +72,26 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 * Permite o monitoramento e acompanhamento do andamento das ações definidas nas Reuniões
 * Divulga para todos os participantes e/ou interessados os itens e assuntos discutidos e abordados nas Reuniões.
 * Geração de relatórios que me  fornecem dados para insights estratégicos e tomada de decisões
+
+</p>
+<h1 align="center">
+  Mítim - gestão de Ata de reunião (demonstração)
+</h1>
+
+<p align="center">
+  <kbd>
+    <img width="550" style="border-radius: 5px" height="250" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Solicita%C3%A7%C3%A3o%20e%20Aprova%C3%A7%C3%A3o%20de%20Acesso).gif" alt="Intro">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="550" style="border-radius: 5px" height="250" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Redefini%C3%A7%C3%A3o%20de%20Senha).gif" alt="Register adopt">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <img width="550" style="border-radius: 5px" height="250" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(ATA%20de%20Reuni%C3%A3o).gif" alt="Chat">
+  </kbd>
+</p>
+
 
 ## Product Backlog 
 <img src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/Product%20Backlog.png" width="900" height="600"/>
