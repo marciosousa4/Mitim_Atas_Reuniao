@@ -55,7 +55,7 @@ O layout da aplicação está disponível no Figma:
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
 * [Documentação do Projeto](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/Sprint-2/Documento%20de%20Requisitos%20-%20Mitim.pdf)
-* [Demonstração do Software](mítim---gestão-de-ata-de-reunião-(demonstração))
+* [Demonstração do Software](https://github.com/marciosousa4/Repositorio_de_Imagens/raw/main/logo_transparent_background.png?raw=true)
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Links de Entregas](#links-de-entregas)
@@ -73,9 +73,14 @@ Essa ferramenta será configurada para Gerenciar Atas de Reunião visando as fun
 * Divulga para todos os participantes e/ou interessados os itens e assuntos discutidos e abordados nas Reuniões.
 * Geração de relatórios que me  fornecem dados para insights estratégicos e tomada de decisões
 
+<p align="center">
+  <a href="https://github.com/marciosousa4/Mitim_Atas_Reuniao">
+    <img alt="Mìtim" src="https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/logo_transparent_background.png?raw=true" width="200" />
+  </a>
+
 </p>
 <h1 align="center">
-  Mítim - gestão de Ata de reunião (demonstração)
+  Demonstração
 </h1>
 
 <p align="center">
