@@ -60,6 +60,7 @@ O layout da aplicação está disponível no Figma:
 * [Links de Entregas](#links-de-entregas)
 * [Features](#features)
 * [Funcionamento do sistema](https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/tag/v.2.0.0)
+* [Testes do software](https://github.com/marciosousa4/Mitim_Atas_Reuniao/blob/main/Sprint%203/TESTES%20FUNCIONAIS%20-%20M%C3%8DTIM%20v.1.0.0.pdf)
 
 ## O que é a Mítim 
 Mítim é uma ferramenta que permite cadastro das atas de reunião e de seus respectivos participantes, gerando um registro online de todas as decisões tomadas , permitindo a delegação das ações discutidas na reunião para os seus respectivo responsáveis.
