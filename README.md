@@ -25,9 +25,7 @@
     <img src="https://img.shields.io/github/v/tag/iterative/setup-cml?label=GitHub%20Actions&logo=GitHub" alt="https://github.com/marciosousa4/Mitim_Atas_Reuniao/releases/tag/v.1.0.0" />
   </a>
   
-<h4 align="center"> 
-	🚧  NextLevelSprint 4 🚀 Em construção...  🚧
-</h4>
+
 
 ## 🎨 Layout
 
